@@ -1,0 +1,16 @@
+:root {
+  --nc-bg: #09090D;
+  --nc-surface-1: #111218;
+  --nc-surface-2: #191A23;
+  --nc-surface-3: #20212C;
+  --nc-border: #292A36;
+  --nc-text: #F1F0F5;
+  --nc-text-muted: #9696A8;
+  --nc-text-subtle: #707184;
+  --nc-violet: #9B7BFF;
+  --nc-violet-soft: #B9A6FF;
+  --nc-blue: #8BB9FF;
+  --nc-success: #9AD8B0;
+  --nc-warning: #E8C58C;
+  --nc-danger: #E58F9A;
+}
